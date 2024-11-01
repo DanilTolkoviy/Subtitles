@@ -31,20 +31,20 @@
 отобразиться меню с секцией "Get content/Получить контент".
 
 9
-00:00:53,230 --> 00:00:54,310
-work with each other.
+00:00:34,967 --> 00:00:39,775
+Import content/импортировать контент используется для импортирования чего либо с нашего копьютера.
 
 10
-00:00:54,340 --> 00:00:59,770
-We'll create a beautiful atmosphere for our world with two sons, and you're encouraged to customize
+00:00:39,886 --> 00:00:44,342
+Такжe здесь мы импортировать контент с маркетплэйса, где есть много интересного.
 
 11
-00:00:59,770 --> 00:01:02,680
-your sky, to get it to look exactly how you want.
+00:00:44,360 --> 00:00:48,176
+А между ним находится Quixel Bridge.
 
 12
-00:01:02,710 --> 00:01:09,070
-We then learn how to add a landscape to our open world and sculpt hills and valleys and mountains,
+00:00:48,235 --> 00:01:50,700
+Это имено то, о чем это видео.
 
 13
 00:01:09,070 --> 00:01:12,880
