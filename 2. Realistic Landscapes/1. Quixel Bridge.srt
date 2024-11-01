@@ -1,0 +1,71 @@
+1
+00:00:8,300 --> 00:00:8,907
+Хорошо.
+
+2
+00:00:8,907 --> 00:00:09,771
+И снова здравствуйте.
+
+3
+00:00:09,791 --> 00:00:14,373
+Теперь у нас есть хорошя сцена но я думаю мы можем лучше.
+
+4
+00:00:14,458 --> 00:00:19,700
+В движке есть интересные вещи
+
+5
+00:00:19,729 --> 00:00:21,840
+и одну из них я вам сейчас покажу.
+
+6
+00:00:40,660 --> 00:00:46,090
+We'll start by learning the basics of Unreal Engine, how to maneuver throughout the viewport and manipulate
+
+7
+00:00:46,090 --> 00:00:46,870
+objects.
+
+8
+00:00:46,870 --> 00:00:53,230
+Well, then create a completely blank open world map and add lighting and sky and learn how these objects
+
+9
+00:00:53,230 --> 00:00:54,310
+work with each other.
+
+10
+00:00:54,340 --> 00:00:59,770
+We'll create a beautiful atmosphere for our world with two sons, and you're encouraged to customize
+
+11
+00:00:59,770 --> 00:01:02,680
+your sky, to get it to look exactly how you want.
+
+12
+00:01:02,710 --> 00:01:09,070
+We then learn how to add a landscape to our open world and sculpt hills and valleys and mountains,
+
+13
+00:01:09,070 --> 00:01:12,880
+then apply materials to get different biomes and environments.
+
+14
+00:01:12,880 --> 00:01:19,180
+With landscape painting, we'll learn the foliage editor and get realistic mega scan assets for free
+
+15
+00:01:19,180 --> 00:01:23,980
+from Pixel Bridge, a massive library of assets built into the engine.
+
+16
+00:01:23,980 --> 00:01:30,280
+And we'll add rocks, trees, grass and growth to create a beautiful forest in the middle of our open
+
+17
+00:01:30,280 --> 00:01:31,450
+world desert.
+
+18
+00:01:31,480 --> 00:01:36,580
+After world building, I teach you the basics of vectors and math for video games.
